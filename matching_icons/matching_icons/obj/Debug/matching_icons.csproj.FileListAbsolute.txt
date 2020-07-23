@@ -1,0 +1,10 @@
+D:\Coding!\C#\matching_icons\matching_icons\bin\Debug\matching_icons.exe.config
+D:\Coding!\C#\matching_icons\matching_icons\bin\Debug\matching_icons.exe
+D:\Coding!\C#\matching_icons\matching_icons\bin\Debug\matching_icons.pdb
+D:\Coding!\C#\matching_icons\matching_icons\obj\Debug\matching_icons.csprojAssemblyReference.cache
+D:\Coding!\C#\matching_icons\matching_icons\obj\Debug\matching_icons.Form1.resources
+D:\Coding!\C#\matching_icons\matching_icons\obj\Debug\matching_icons.Properties.Resources.resources
+D:\Coding!\C#\matching_icons\matching_icons\obj\Debug\matching_icons.csproj.GenerateResource.cache
+D:\Coding!\C#\matching_icons\matching_icons\obj\Debug\matching_icons.csproj.CoreCompileInputs.cache
+D:\Coding!\C#\matching_icons\matching_icons\obj\Debug\matching_icons.exe
+D:\Coding!\C#\matching_icons\matching_icons\obj\Debug\matching_icons.pdb
